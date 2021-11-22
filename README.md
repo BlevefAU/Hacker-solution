@@ -2,7 +2,7 @@
 
 These answer is for hacker rank question's solutions.
 
-Most solutions develop by Bleve and some answer may refer to other's solutions online.
+Most solutions developed by Bleve and some answers may refer to other's solutions online.
 
 -----------------------------------------
 
